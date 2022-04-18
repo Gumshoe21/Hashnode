@@ -17,13 +17,13 @@ Click on that and it will bring up, well, the transcript of the entire video. Fr
 
 ## Watch At a Slower Speed
 
-I know, I know - you're taking a 48 hour course and that's long enough as it is. I hear you! But hear me out... There's a few good reasons you should (not always, but sometimes) watch your lectures at a lower speed. 
+I know, I know - you're taking a 48 hour course and that's long enough as it is. I hear you! But hear me out... There's a few good reasons you should (not always, but sometimes) watch your lectures at a slower speed. 
 
-For one, there are some lecturers out there who simply talk too fast; in that case, watching at a lower speed is almost essential. But here's the biggest reason: the knowledge you're consuming is *complicated*. I mean, that's the prime reason you're taking a course in the first place, right? To learn about something you don't understand well if at all. Watching lectures at a lower speed will enable you to focus better on each part of the lecture rather than letting the words blow you by. I've found that if the lecture is too fast and the content is complicated, I tend to rewind the video anyway so I can hear it for a second or third time.
+For one, there are some lecturers out there who simply talk too fast; in that case, watching at a slower speed is almost essential. But here's the biggest reason: the knowledge you're consuming is *complicated*. I mean, that's the prime reason you're taking a course in the first place, right? To learn about something you don't understand well if at all. Watching lectures at a slower speed will enable you to focus better on each part of the lecture rather than letting the words blow you by. I've found that if the lecture is too fast and the content is complicated, I tend to rewind the video anyway so I can hear it for a second or third time.
 
 ## Watch Lectures Multiple Times
 
-The great thing about taking an online course is that you can not only work at your own pace, but you can view the content as many times as you like. Take advantage of this fact. It sometimes takes me three or more sit-throughs to fully absorb the material presented. There's no need to feel discouraged or demoralized by the fact that it's not clicking on the first watch. Again, these lectures can be complicated. I remember watching Jonas Schmedtmann's explanation of the concept of JavaScript closures several times before I started to understand it even a little. 
+The great thing about taking an online course is that you can not only work at your own pace, but you can view the content as many times as you like. Take advantage of this fact. It sometimes takes me three or more sit-throughs to fully absorb the material presented. There's no need to feel discouraged or demoralized by the fact that it's not clicking on the first watch. Again, these lectures can be complicated. I remember watching Jonas Schmedtmann's explanation of the concept of JavaScript closures several times before I began to understand it even a little. 
 
 (by the way, please take [Jonas Schmedtmann's courses](https://www.udemy.com/user/jonasschmedtmann/) on Udemy if you are a beginner web developer (or even an experienced one.) He is one of the best instructors on the platform, if not the entire web.)
 
@@ -35,7 +35,7 @@ This is a big one. Oftentimes, I'll find that a certain lecture just doesn't cut
 
 The Q&A section has saved me a lot of frustration throughout my time on Udemy. You can filter questions by lecture, which lets you tackle problems specific to the content you're currently watching. Not only that, lecturers and their TA's will often respond directly to questions, comments, and concerns.
 
-So there you have it. I hope that this article leaves you armed with the tools needed to make the most out of your Udemy courses.
+So there you have it. I hope this article leaves you armed with the tools needed to make the most out of your Udemy courses.
 
 
 
