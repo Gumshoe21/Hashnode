@@ -15,7 +15,7 @@ The absolute best way to get the most bang for your buck out of Udemy is to rele
 
 Click on that and it will bring up, well, the transcript of the entire video. From there you can go ahead and copy/paste the relevant text into your notes. The only problem is that the text you copy includes all the line breaks as well, so what I personally do is use one of my favorite tools for merging text lines: [https://www.browserling.com/tools/join-lines](Link) Paste your copied text in the box, click "Join Lines", then click "Copy to Clipboard". Now you have text from your lecture with no line breaks, all ready to be pasted into your note-taking app of choice. Neat, eh?
 
-## Watch At A Slower Speed
+## Watch At a Slower Speed
 
 I know, I know - you're taking a 48 hour course and that's long enough as it is. I hear you! But hear me out... There's a few good reasons you should (not always, but sometimes) watch your lectures at a lower speed. 
 
@@ -31,7 +31,7 @@ The great thing about taking an online course is that you can not only work at y
 
 This is a big one. Oftentimes, I'll find that a certain lecture just doesn't cut it. Either the lecture fails at explaining a core concept in an effective way, or I fail to understand the explanation. Either way, knowledge isn't being imparted. In this case, I would highly suggest that you supplement the courses you're taking with other resources. Honestly, you should be doing this anyway. Sometimes it takes just one other person explaining a concept in a certain way for it to click in a way that just isn't being done in the course by the lecturer. And that's fine so long as *most* of the course content is clicking. If not, you might find yourself with a course that isn't doing for you what you thought it would. Luckily, Udemy provides a "30-Day Money Back Guarantee" policy on all courses, so make sure to take advantage of that as well.
 
-## Read The Q&A Section
+## Read the Q&A Section
 
 The Q&A section has saved me a lot of frustration throughout my time on Udemy. You can filter questions by lecture, which lets you tackle problems specific to the content you're currently watching. Not only that, lecturers and their TA's will often respond directly to questions, comments, and concerns.
 
