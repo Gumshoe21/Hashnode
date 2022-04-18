@@ -10,7 +10,8 @@ So how do we maximize this potential for learning? Here's a few tips on how to g
 
 The absolute best way to get the most bang for your buck out of Udemy is to relentlessly take notes during the course. But don't worry, you don't necessarily have to write out all the notes by hand. At the bottom of the media player, there's a button called "Transcript":
 
-![Transcripts.png](Uploading...)
+
+![Transcripts.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650307748429/kfzxjvIl1.png)
 
 Click on that and it will bring up, well, the transcript of the entire video. From there you can go ahead and copy/paste the relevant text into your notes. The only problem is that the text you copy includes all the line breaks as well, so what I personally do is use one of my favorite tools for merging text lines: [https://www.browserling.com/tools/join-lines](Link) Paste your copied text in the box, click "Join Lines", then click "Copy to Clipboard". Now you have text from your lecture with no line breaks, all ready to be pasted into your note-taking app of choice. Neat, eh?
 
