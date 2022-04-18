@@ -15,7 +15,7 @@ The absolute best way to get the most bang for your buck out of Udemy is to rele
 
 Click on that and it will bring up, well, the transcript of the entire video. From there you can go ahead and copy/paste the relevant text into your notes. The only problem is that the text you copy includes all the line breaks as well, so what I personally do is use one of my favorite tools for merging text lines: [https://www.browserling.com/tools/join-lines](Link) Paste your copied text in the box, click "Join Lines", then click "Copy to Clipboard". Now you have text from your lecture with no line breaks, all ready to be pasted into your note-taking app of choice. Neat, eh?
 
-## Watch a slower speed
+## Watch At A Slower Speed
 
 I know, I know - you're taking a 48 hour course and that's long enough as it is. I hear you! But hear me out... There's a few good reasons you should (not always, but sometimes) watch your lectures at a lower speed. 
 
