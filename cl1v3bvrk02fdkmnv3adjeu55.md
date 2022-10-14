@@ -1,4 +1,4 @@
-## Maintaining a Healthy Relationship with Stack Overflow
+# Maintaining a Healthy Relationship with Stack Overflow
 
 We all love Stack Overflow - it's like the over-the-counter prescription to our coding headaches and can often save us a lot of time and grief. But sometimes it can do more harm than good, so it's important to maintain a healthy relationship with it.
 
