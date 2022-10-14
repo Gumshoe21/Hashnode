@@ -1,4 +1,4 @@
-## How to Get the Most Out of Udemy Courses
+# How to Get the Most Out of Udemy Courses
 
 We live in an amazing time; the amount of resources available to developers is at an all-time high, and there's simply no excuse to find yourself in the dark when it comes to obtaining the knowledge you need to foster the skills you desire. Udemy is one of the best resources for learning on the web and my personal favorite, and their courses are effectively "permanently on sale" (there's no reason to buy a course at full price, just wait a few days for the inevitable "sale"). Heck, there's a sale going on as I'm writing this article!
 
