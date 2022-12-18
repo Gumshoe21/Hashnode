@@ -1,6 +1,6 @@
 # How to Block Distractions While Coding
 
-I'll be the first to admit: I sometimes have trouble staying focused while coding. Even though my intentions are good, I often still falter at the slightest chance of distracting myself. And to perform well intense and precise work such as software development, distraction isn't good - we need to remain in the context of our work environment for as long as possible without drifting off.
+I'll be the first to admit: I sometimes have trouble staying focused while coding. Even though my intentions are good, I often still falter at the slightest chance of distracting myself. And to perform well doing intense and precise work such as software development, distraction isn't good - we need to remain in the context of our work environment for as long as possible without drifting off.
 
 Here are some resources I use to keep myself focused while coding:
 
