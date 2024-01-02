@@ -5,7 +5,7 @@ seoDescription: "During my journey of learning Go, I've come across a confusing 
 datePublished: Tue Jan 02 2024 03:56:56 GMT+0000 (Coordinated Universal Time)
 cuid: clqvtimlj000208guh5fp6cfb
 slug: a-quirk-regarding-type-assertions-and-switch-statements-in-go
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704167768962/22901893-52ae-43e9-8a0b-98601edb8dbc.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704167912990/a2d4e9ae-7f9f-49cd-9d57-c60f7ef82538.webp
 tags: software-development, go, programming, learning, coding
 
 ---
