@@ -14,7 +14,7 @@ During my journey of learning Go, I've come across a confusing yet interesting q
 
 I've learned that when running a `switch` statement on a value's type, **you can match a type that is different than the value's declared type if the value's underlying type satisfies the matched type.**
 
-That may might have been a mouthful, but I'll explain exactly what I mean in great detail.
+That might have been a mouthful, but I'll explain exactly what I mean in great detail.
 
 Take the following code for example:
 
